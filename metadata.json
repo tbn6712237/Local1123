@@ -1,0 +1,8 @@
+{
+  "name": "Remix CollabLocal - Local Business \u0026 Creator Marketplace",
+  "description": "A two-sided marketplace connecting local businesses with content creators, KOLs, and micro-influencers through location-based discovery, matching, and managed collaborations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
